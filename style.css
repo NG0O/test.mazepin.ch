@@ -44,16 +44,6 @@ body {
     margin-bottom: 30px;
   }
   
-  form label,
-  form input[type="submit"] {
-    display: block;
-    margin-bottom: 10px;
-  }
-  
-  form label {
-    font-weight: bold;
-    text-align: center;
-  }
   
   footer {
     background-color: lightblue;

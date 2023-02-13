@@ -32,6 +32,7 @@ body {
   
   section {
     margin-bottom: 50px;
+    text-align: center;
   }
   
   section h2 {
@@ -47,6 +48,7 @@ body {
   
   form label {
     font-weight: bold;
+    text-align: center;
   }
   
   footer {

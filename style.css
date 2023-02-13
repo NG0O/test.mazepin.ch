@@ -16,6 +16,10 @@ body {
     display: flex;
     justify-content: center;
   }
+
+  #about {
+    text-align: center;
+  }
   
   header nav ul li {
     margin: 0 10px;
